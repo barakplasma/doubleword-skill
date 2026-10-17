@@ -1,7 +1,7 @@
 ---
 name: doubleword
 description: Route Doubleword LLM inference and data-processing jobs across realtime, async, and batch tiers using the dw CLI or OpenAI-compatible API.
-version: 3.0.0
+version: 3.0.1
 platforms: [linux, macos]
 metadata:
   hermes:
